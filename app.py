@@ -1,4 +1,4 @@
-import streamlist as alt
+import streamlit as st
 import qrcode
 from PIL import Image
 st.title("Qr code generator")
